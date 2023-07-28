@@ -32,6 +32,10 @@ body{
     padding: 40px;
 }
 
+.feedback{
+    text-align: right;
+}
+
 .profileText{
     position: relative;
     display: flex;
